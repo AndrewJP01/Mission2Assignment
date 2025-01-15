@@ -9,5 +9,6 @@
         Console.WriteLine("How many dice rolls would you like to simulate?");
 
         numRolls = int.Parse(Console.ReadLine());
+        //testing git
     }
 }
